@@ -10,9 +10,15 @@ I used the renv (https://rstudio.github.io/renv/index.html) R package to take a 
 
 #########################################################################################################
 Explanation of Scripts:
+
 Each caribou herd has its own set of scripts stored in the ClearCreek_RSFs and Klaza_RSFs folders. 
+
 01_gps_glm_mods_ew = GPS collar data GLMs for the early winter season
+
 02_gps_glm_mods_lw = GPS collar data GLMs for the late winter season
+
 03_gps_glm_mods_s = GPS collar data GLMs for the summer season
+
 04_gps_glm_mods_f = GPS collar data GLMs for the fall-rut season
+
 05_vhf_glm_mods = VHF collar data GLMs for the snow and snow-free seasons
