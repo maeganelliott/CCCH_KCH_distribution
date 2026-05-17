@@ -21,3 +21,7 @@ Each caribou herd has its own set of scripts stored in the ClearCreek_RSFs and K
 04_gps_glm_mods_f = GPS collar data GLMs for the fall-rut season
 
 05_vhf_glm_mods = VHF collar data GLMs for the snow and snow-free seasons
+
+#######################################################################################################
+Temporal Disturbance Database:
+Please visit https://github.com/beaconsproject/disturbance_mapping for the temporal disturbance database used in this analysis (under Master's thesis), as well as a number of other disturbance mapping resources. 
