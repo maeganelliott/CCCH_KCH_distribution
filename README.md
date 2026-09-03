@@ -1,4 +1,4 @@
-## Clear Creek and Klaza Caribou Herd Distribution Changes
+## Distribution Changes of the Clear Creek and Klaza Caribou Herds
 
  Public repository for supplementary material for M. Elliott's MSc Thesis and corresponding journal article. This includes:
  - R code used to assess the effects of landscape change on the distributions of the Clear Creek (CCCH) and Klaza (KCH) caribou herds in the Yukon, Canada
